@@ -1,6 +1,4 @@
-# sample
-
-sample
+# Fitness App
 
 ## Getting Started
 
